@@ -15,7 +15,7 @@ public class CircleValueFinderOptimized {
         String ads = scanner.nextLine();
 
         System.out.print("Is your object a circle or a sphere?: ");
-        String object = scanner.nextLine();
+        String object = scanner.nextLine().toLowerCase();
 
         if(object.equals("circle")){
 
