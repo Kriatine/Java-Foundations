@@ -8,5 +8,6 @@ public class Arithmetics {
 
         System.out.println(z);
 
+
     }
 }

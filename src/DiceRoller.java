@@ -13,7 +13,7 @@ public class DiceRoller {
         System.out.print("Enter a number of dice to roll: ");
         numOfDice = scanner.nextInt();
 
-        if(numOfDice > 0){
+        if(numOfDice > 0){oh
 
             for(int i = 0; i < numOfDice; i++){
                 int roll = random.nextInt(1, 7);
